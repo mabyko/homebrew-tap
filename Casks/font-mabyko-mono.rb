@@ -12,10 +12,10 @@ cask "font-mabyko-mono" do
     strategy :github_latest
   end
 
-  font "MabykoMono-Thin.ttf"
-  font "MabykoMono-Light.ttf"
-  font "MabykoMono-Regular.ttf"
-  font "MabykoMono-Medium.ttf"
-  font "MabykoMono-SemiBold.ttf"
   font "MabykoMono-Bold.ttf"
+  font "MabykoMono-Light.ttf"
+  font "MabykoMono-Medium.ttf"
+  font "MabykoMono-Regular.ttf"
+  font "MabykoMono-SemiBold.ttf"
+  font "MabykoMono-Thin.ttf"
 end
