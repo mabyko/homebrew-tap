@@ -1,6 +1,6 @@
 cask "font-mabyko-mono-narrow" do
-  version "0.5.0"
-  sha256 "401eb1bc4831b406e8161be3163c565616f2d501f623ae097278b21db17ad275"
+  version "0.5.1"
+  sha256 "cbc042cecc8977989547f49ab99d80f0f2e3b4f2442070972936c9f274cf657f"
 
   url "https://github.com/mabyko/MabykoMono/releases/download/v#{version}/MabykoMono_Narrow_v#{version}.zip"
   name "Mabyko Mono Narrow"

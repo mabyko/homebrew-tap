@@ -1,6 +1,6 @@
 cask "font-mabyko-mono-nf" do
-  version "0.5.0"
-  sha256 "4a9f56b660a5a2790912a1667941f3feab947e417938ac218d88f3e569f9cce2"
+  version "0.5.1"
+  sha256 "08c742a91e30183531595c8ed8369754aa2f853828fbaa5d5767d1b582f780d2"
 
   url "https://github.com/mabyko/MabykoMono/releases/download/v#{version}/MabykoMono_NF_v#{version}.zip"
   name "Mabyko Mono NF"
